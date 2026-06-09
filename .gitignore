@@ -1,1 +1,20 @@
+# Visual Studio
 .vs/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+ipch/
+
+# 编译输出
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.ilk
+*.tlog
+*.aps

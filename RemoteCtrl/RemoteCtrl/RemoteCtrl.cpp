@@ -20,7 +20,7 @@ int main()
 {
     int nRetCode = 0;
 
-    HMODULE hModule = ::GetModuleHandle(nullptr);
+    HMODULE hModule = ::GetModuleHandle(nullptr);     
 
     if (hModule != nullptr)
     {
