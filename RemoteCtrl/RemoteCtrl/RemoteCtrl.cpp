@@ -11,7 +11,7 @@
 
 
 // 唯一的应用程序对象
-// 分支main
+// 分支main11
 CWinApp theApp;
 
 using namespace std;
